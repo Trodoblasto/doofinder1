@@ -40,4 +40,36 @@ header{
   height: 400px;
   padding:12px;
 }
+table{
+  width:100%;
+  border-collapse: collapse;
+}
+th{
+  text-align:left;
+  background-color: #666;
+  color: #fff;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 4px;
+
+}
+td {
+   border-bottom: 1px solid #666;
+   padding-left: 12px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+
+ }
+tr >td:first-child{
+  width: 180px;
+}
+tr >td:nth-child(2){
+  width: 180px;
+}
+tr >td:nth-child(3){
+  width: 180px;
+}
+tr >td:last-child{
+  width: 260px;
+}
 
