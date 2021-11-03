@@ -45,14 +45,14 @@ table{
 }
 th{
   text-align:left;
-  background-color: #666;
+  background-color: rgb(156, 149, 149);
   color: #fff;
   padding-left: 12px;
   padding-top: 5px;
   padding-bottom: 4px;
 }
 td {
-   border-bottom: 1px solid #666
+   border-bottom: 1px solid #666;
    padding-left: 12px;
    padding-top: 8px;
    padding-bottom: 8px;
